@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="https://sparkle-project.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FaceScreen Updates</title>
+    <link>https://rampatra.github.io/facescreen-updates/</link>
+    <description>Latest updates for FaceScreen</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.2.0</title>
+      <description><![CDATA[• FaceScreen version sold outside the App Store.<br />
+]]></description>
+      <pubDate>Wed, 27 May 2026 15:29:34 +0000</pubDate>
+      <enclosure
+        url="https://rampatra.github.io/facescreen-updates/FaceScreen-2.2.0.dmg"
+        sparkle:version="20"
+        sparkle:shortVersionString="2.2.0"
+        length="4525294"
+        type="application/octet-stream"
+        sparkle:edSignature="Xdwg4f5Q6xwFN/Rc8LQkvSbPs25ugjfREUlyBq0OZ/kng/4fGVvfg7sVi44ufKVCp8EPcvKBInhHpc3VYnl0Bg=="/>
+    </item>
+  </channel>
+</rss>
