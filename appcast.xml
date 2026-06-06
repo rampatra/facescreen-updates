@@ -8,17 +8,17 @@
     <description>Latest updates for FaceScreen</description>
     <language>en</language>
     <item>
-      <title>Version 2.2.3</title>
-      <description><![CDATA[• Test app updates through Sparkle.<br />
+      <title>Version 2.2.4</title>
+      <description><![CDATA[• Fix app update issue.<br />
 ]]></description>
-      <pubDate>Sat, 06 Jun 2026 20:46:06 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 21:01:03 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/facescreen-updates/FaceScreen-2.2.3.dmg"
-        sparkle:version="23"
-        sparkle:shortVersionString="2.2.3"
+        url="https://rampatra.github.io/facescreen-updates/FaceScreen-2.2.4.dmg"
+        sparkle:version="24"
+        sparkle:shortVersionString="2.2.4"
         length="4525568"
         type="application/octet-stream"
-        sparkle:edSignature="IDtHb+oEeEUG90fNZk3iRaOv2YvuQIZnbeFPU80gDwhWi/eG4WL4ejCh8UQGqoR4JoJ0axS/jeQZFUqBGzyLBA=="/>
+        sparkle:edSignature="Fv2LVsCaOI5d59wxMnlb/Gjp3d/Ry6FniOP25XDRQEiu3SgLiqWAXj5MBfJpwtnuzj2hbhkNWZpsrfJ1vxkoBQ=="/>
     </item>
   </channel>
 </rss>
