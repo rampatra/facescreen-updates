@@ -8,17 +8,17 @@
     <description>Latest updates for FaceScreen</description>
     <language>en</language>
     <item>
-      <title>Version 2.2.1</title>
-      <description><![CDATA[• Fix camera access issue in some cases.<br />
+      <title>Version 2.2.2</title>
+      <description><![CDATA[• Fix camera access issue in some cases and other minor bugs.<br />
 ]]></description>
-      <pubDate>Sat, 06 Jun 2026 19:58:35 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 20:29:06 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/facescreen-updates/FaceScreen-2.2.1.dmg"
-        sparkle:version="21"
-        sparkle:shortVersionString="2.2.1"
-        length="4525291"
+        url="https://rampatra.github.io/facescreen-updates/FaceScreen-2.2.2.dmg"
+        sparkle:version="22"
+        sparkle:shortVersionString="2.2.2"
+        length="4525662"
         type="application/octet-stream"
-        sparkle:edSignature="6nkjsVm3WiiNyu4t6GzaoRGvTpHAXFRdqrLoSqIOXTiB02LEaNFjiy91ZYnhxzXY6CPepGlVSNCzQe6cfHGCBA=="/>
+        sparkle:edSignature="KNNWYk3Y7FCABzZSLrwiw4PCpK7cmd7yssNqgua2UX4ekB2/MF956+QQN4NiaHBOT/BP1Cqkd1Q0ZDWPm34uDQ=="/>
     </item>
   </channel>
 </rss>
