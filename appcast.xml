@@ -8,17 +8,17 @@
     <description>Latest updates for FaceScreen</description>
     <language>en</language>
     <item>
-      <title>Version 3.1.1</title>
-      <description><![CDATA[• Minor improvements – no need to ask for reviews in direct version<br />
+      <title>Version 3.1.2</title>
+      <description><![CDATA[• Minor improvements around license management.<br />
 ]]></description>
-      <pubDate>Tue, 07 Jul 2026 12:33:32 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 18:07:03 +0000</pubDate>
       <enclosure
-        url="https://rampatra.github.io/facescreen-updates/FaceScreen-3.1.1.dmg"
-        sparkle:version="34"
-        sparkle:shortVersionString="3.1.1"
-        length="4520699"
+        url="https://rampatra.github.io/facescreen-updates/FaceScreen-3.1.2.dmg"
+        sparkle:version="35"
+        sparkle:shortVersionString="3.1.2"
+        length="4523927"
         type="application/octet-stream"
-        sparkle:edSignature="pPI4snt0sSMhP5fqXshj4xqyvTqb4BpZkU9KGbToH/0CyNzwdn5WoMI+33YL2lLaj38Xkv5YCwc7O7BNwnoOBg=="/>
+        sparkle:edSignature="Kmc9MIUpIpnRI2ib0BE1bQSY3SdfFmCsqFD0JxbOQRK0JgTrUjRVBPOg/suEeGAIhEu8VwFrpmJ3Nrq3wu47DQ=="/>
     </item>
   </channel>
 </rss>
